@@ -17,5 +17,6 @@ public class TotalFare {
 		totalString = "<TotalFare Amount=\"" + total
 				+ "\" CurrencyCode=\"CNY\"/>";
 		System.out.println(totalString);
+		
 	}
 }
